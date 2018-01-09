@@ -1,0 +1,14 @@
+#ºöÂÔServersÎÄ¼ş¼Ğ
+/Servers/
+
+#ºöÂÔ.metadataÎÄ¼ş¼Ğ
+/.metadata/
+
+#ºöÂÔ.settings
+/Servers/.settings/
+
+#ºöÂÔ*.classpath
+*.classpath
+
+#ºöÂÔ*.project
+*.project
